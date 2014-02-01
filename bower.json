@@ -1,0 +1,32 @@
+{
+  "name": "urianchor",
+  "version": "1.1.3",
+  "homepage": "https://github.com/mmikowski/urianchor",
+  "authors": [
+    "Michael S. Mikowski<mike.mikowski@gmail.com>"
+  ],
+  "dependencies": {
+    "jquery" : ">=1.6.2"
+  },
+  "description": "Use this plugin to manage dependent and independent variables in the hash fragment of the URI.  It has been designed and updated over five commercial SPA projects and is featured in the book 'Single page web applications - JavaScript end-to-end' (http://manning.com/mikowski). It provides the capability to make the URI fragment your application state API.  Bookmarks, browser history, the back button, and the forward button can all be made to act as the user expects.",
+  "main": [
+    "jquery.uriAnchor.js"
+  ],
+  "keywords": [
+    "hashtag",
+    "hash",
+    "uri",
+    "bookmarks",
+    "history",
+    "address",
+    "location"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

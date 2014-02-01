@@ -1,5 +1,7 @@
 # uriAnchor #
 
+Forked from [urianchor](https://github.com/mmikowski/urianchor/) by Michael S. Mikowski.
+
 ## Summary ##
 
 A jQuery plugin for management of the URI hash component.
